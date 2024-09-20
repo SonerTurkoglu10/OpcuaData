@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E68BED-971D-4AE7-A5FA-3BD0EFB5F058}|opc.ver.exe\\opc.veri.exe.csproj|c:\\users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E68BED-971D-4AE7-A5FA-3BD0EFB5F058}|opc.ver.exe\\opc.veri.exe.csproj|solutionrelative:opc.ver.exe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E68BED-971D-4AE7-A5FA-3BD0EFB5F058}|opc.ver.exe\\opc.veri.exe.csproj|C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E68BED-971D-4AE7-A5FA-3BD0EFB5F058}|opc.ver.exe\\opc.veri.exe.csproj|solutionrelative:opc.ver.exe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E68BED-971D-4AE7-A5FA-3BD0EFB5F058}|opc.ver.exe\\opc.veri.exe.csproj|C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E68BED-971D-4AE7-A5FA-3BD0EFB5F058}|opc.ver.exe\\opc.veri.exe.csproj|solutionrelative:opc.ver.exe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\Form1.cs",
+              "RelativeDocumentMoniker": "opc.ver.exe\\Form1.cs",
+              "ToolTip": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\Form1.cs",
+              "RelativeToolTip": "opc.ver.exe\\Form1.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAkwFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:49:31.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\Form1.cs",
+              "RelativeDocumentMoniker": "opc.ver.exe\\Form1.cs",
+              "ToolTip": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "opc.ver.exe\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:40:11.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "opc.ver.exe\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\soner\\source\\repos\\opc.ver.exe\\opc.ver.exe\\Form1.Designer.cs",
+              "RelativeToolTip": "opc.ver.exe\\Form1.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:41:42.92Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
